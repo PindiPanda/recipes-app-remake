@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "822360999433",
+    "firebase_url": "https://jp-recipes.firebaseio.com",
+    "project_id": "jp-recipes",
+    "storage_bucket": "jp-recipes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822360999433:android:beab093a920fcdb6",
+        "android_client_info": {
+          "package_name": "com.pindipanda.recipes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822360999433-g1svs90i1cf801qns9a1nr49qlofk2eh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pindipanda.recipes_app",
+            "certificate_hash": "3df73c89ebe59d4a6aeeac2e02f94daeee061b9a"
+          }
+        },
+        {
+          "client_id": "822360999433-90ufdine8ls98cemvvislai6etl7houo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlQ2s3OtYyzdEnPspMcsppS5CWdzsoJf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822360999433-90ufdine8ls98cemvvislai6etl7houo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "822360999433-8shdh5t2o92pv774jhmbbcg5louvpbkr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pindipanda.jpRecipeCloud"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
